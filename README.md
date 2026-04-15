@@ -1,4 +1,4 @@
-# Fmovies Scraper
+# Automated Web Scraper & Media Downloader
 
 The Chrome Browser Version this was tested on is '121.0.6167.185 (Official Build) (64-bit)'.
 
@@ -12,12 +12,6 @@ The purpose of this script is to automate the process of downloading movies and 
 - **Downloads movies and series**: Users can input a movie or series title, and the script will navigate to the corresponding page on fmovies.co, initiate the download process, and handle the necessary interactions to download the content.
 - **Flexible choice selection**: Users can choose from the search results which movie or series they want to download.
 - **Supports both movies and series**: The script allows users to search for and download both movies and series, with plans to implement series functionality in future updates.
-
-## Demo
-
-DEMO VID HERE
-
-Press the image to watch the demo video.
 
 ## Installation
 
