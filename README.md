@@ -18,7 +18,7 @@ The purpose of this script is to automate the process of downloading movies and 
 1. Clone the repository to your local machine:
 
  ```bash
-   https://github.com/I0re/Fmovies-Scraper-Free-Movies.git
+   https://github.com/I0re/Automated-Web-Scraper-Media-Downloader.git
  ```
 
 2. Install the required dependencies using pip:
